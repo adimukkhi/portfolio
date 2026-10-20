@@ -4,7 +4,7 @@ An interactive portfolio built with **React, Vite, and Phaser 3**. Explore a pix
 
 ## Live Demo
 
-**Explore the portfolio:** [Aditya Mukherjee — Interactive Portfolio](YOUR_DEPLOYED_LINK_HERE)
+**Explore the portfolio:** [Aditya Mukherjee — Interactive Portfolio](https://portfolio-iota-bay-rihc839op5.vercel.app/)
 
 Explore the pixel-art room, interact with objects, and discover my projects, tech stack, background, and contact details.
 
